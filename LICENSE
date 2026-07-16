@@ -5,10 +5,4 @@ MLProject/
 ├── requirements.txt
 ├── LICENSE
 ├── dataset/
-│   └── JME_Regional_Global_Estimates_March_2026.xlsx
-│
-└── output/
-    ├── child_malnutrition_final_report.csv
-    ├── trend_chart.png
-    ├── risk_map.png
-    └── dashboard.png
+     └── JME_Regional_Global_Estimates_March_2026.xls
